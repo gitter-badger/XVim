@@ -3,6 +3,7 @@
 </div>
 
 # XVim
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/november-code/XVim?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
   XVim is a Vim plugin for Xcode. The plugin intends to offer a compelling Vim experience without the need to give up any Xcode features.
 
 #### Announcement
